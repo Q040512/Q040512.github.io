@@ -13,7 +13,7 @@ keywords = "Hugo, Bootstrap, Blog Theme"
 
 # logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
 # logo = false # Disable Logo
-brand = "HBS v1"
+brand = "Q' Blog"
 
 palette = "purple" # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # palettes = ["blue", "blue gray", "purple"] # Available palettes. Default to ALL.
@@ -157,10 +157,10 @@ shenma = ""
 # moderation = false # Same as Staticman's moderation.
 
 [giscus]
-repo = "razonyang/hugo-theme-bootstrap"
-repoId = "MDEwOlJlcG9zaXRvcnkzMDQzMzI4NTM="
+repo = "Q040512/Q040512.github.io"
+repoId = "R_kgDONPUpNA="
 category = "General"
-categoryId = "MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyODkzODg2"
+categoryId = "DIC_kwDONPUpNM4CkZxY"
 # theme = "dark" # Default to auto.
 # mapping = "title" # Default to pathname.
 # inputPosition = "bottom" # Default to top.
@@ -234,7 +234,7 @@ minMatchCharLength = 3
 [pwa]
 [pwa.manifest]
 # name = "" # Default to site title.
-short_name = "HBS"
+short_name = "Q's Blog"
 # display = "fullscreen" # Default to standalone.
 # description = "" # Default to site description.
 # theme_color = ""
@@ -273,9 +273,9 @@ endpoint = "https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd" # Backend
 siteKey = "6LcWQH0gAAAAAJPZN9S-wrugRUukNOiHfxmFOSM5"
 
 [repo]
-url = "https://github.com/razonyang/hugo-theme-bootstrap"
+url = "https://github.com/q040512/q040512.github.io/"
 # branch = "main"
-subPath = "exampleSite"
+subPath = ""
 # dateFormat = "02/01/2006, 15:04:05 PM"
 
 # [fullWidthInSections]
@@ -287,8 +287,8 @@ subPath = "exampleSite"
 # dropdownMenuToggle = false # Hide the dropdown menu toggle.
 [topAppBar.social]
 github = "razonyang/hugo-theme-bootstrap"
-patreon = "razonyang"
-paypal = "razonyang"
+# patreon = "razonyang"
+# paypal = "razonyang"
 # rss = "" # Disable RSS link
 
 [docs]
