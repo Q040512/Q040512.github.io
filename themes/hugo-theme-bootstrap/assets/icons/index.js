@@ -45,6 +45,7 @@ import {
   faAdjust,
   faArrowsAltV,
   faBars,
+  faBriefcase,
   faBuilding,
   faCheckCircle,
   faChevronCircleDown,
@@ -70,6 +71,7 @@ import {
   faFolder,
   faFont,
   faGlobe,
+  faHeartbeat,
   faHistory,
   faHome,
   faInfoCircle,
@@ -87,6 +89,7 @@ import {
   faReply,
   faRocket,
   faRss,
+  faSchool,
   faSearch,
   faShareAlt,
   faSkullCrossbones,
@@ -162,6 +165,9 @@ let icons = [
   faExternalLinkSquareAlt,
   faSun,
   faMoon,
+  faSchool,
+  faHeartbeat,
+  faBriefcase,
 
   // Regular Icons
   faStar,

@@ -5,6 +5,5 @@ menu:
     parent: blog
     weight: 3
     params:
-      icon: <i class="fas fa-pen-nib"></i>
-      description: List of categories.
+      icon: <i class="fa-solid fa-fw fa-heartbeat text-danger"></i>
 ---
