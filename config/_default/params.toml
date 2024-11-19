@@ -210,14 +210,14 @@ minMatchCharLength = 3
 #patreon = "images/reward/patreon.png"
 #liberapay = "images/reward/liberapay.png"
 
-[funding]
-alipay = "https://razonyang.com/images/reward/alipay.webp"
-wechat = "https://razonyang.com/images/reward/wechat.webp"
-buymeacoffee = "razonyang"
-ko_fi = "razonyang"
-patreon = "razonyang"
-open_collective = "hbs"
-paypal = "razonyang"
+# [funding]
+# alipay = "https://razonyang.com/images/reward/alipay.webp"
+# wechat = "https://razonyang.com/images/reward/wechat.webp"
+# buymeacoffee = "razonyang"
+# ko_fi = "razonyang"
+# patreon = "razonyang"
+# open_collective = "hbs"
+# paypal = "razonyang"
 
 #[share]
 #addThis = "" # AddThis pubid.
@@ -307,7 +307,7 @@ github = "razonyang/hugo-theme-bootstrap"
 # linkedin = "yourlinkedinusername"
 # xing = "yourxingusername"
 # stackoverflow = "yourstackoverflowuserid"
-twitter = "razonyang"
+# twitter = "razonyang"
 # weibo = "yourweibousername"
 # zhihu = "yourzhihuusername"
 # instagram = "yourinstagramusername"
@@ -332,18 +332,18 @@ twitter = "razonyang"
 # pinterest = "yourpinterestusername"
 # mastodon = "yourmastodonusername"
 # liberapay = "yourliberapayaccount"
-paypal="razonyang"
-patreon="razonyang"
+# paypal="razonyang"
+# patreon="razonyang"
 # tipeee="yourtipeeeaccount-fr"
 # rss = "" # Disable RSS link
 
 [author]
-name = "HBS (Hugo Bootstrap Theme)"
+name = "阿Q的博客"
 # avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
-bio = "Fast, responsive, multipurpose, open source (MIT license) and feature-rich Hugo theme."
-company = 'Company'
+bio = "欢迎来到我的博客，我是阿Q～"
+# company = 'Company'
 # company = '<a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>'
-location = "Earth"
+location = "Beijing, China"
 # alternatives:
 # location = "<a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>"
 # location = "<a href='https://www.google.com/maps/search/Earth'>Earth</a>"
@@ -354,8 +354,8 @@ location = "Earth"
 
 [author.social]
   email = "razonyang@gmail.com"
-  github = "razonyang/hugo-theme-bootstrap"
-  twitter = "razonyang"
-  patreon = "razonyang"
-  paypal = "razonyang"
+  # github = "razonyang/hugo-theme-bootstrap"
+  # twitter = "razonyang"
+  # patreon = "razonyang"
+  # paypal = "razonyang"
   # rss = "" # Disable RSS link

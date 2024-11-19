@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CSS on Hugo Bootstrap</title>
+    <title>CSS on Q&#39;s Blog</title>
     <link>https://Q040512.github.io/zh-hans/tags/css/</link>
-    <description>Recent content in CSS on Hugo Bootstrap</description>
+    <description>Recent content in CSS on Q&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-hans</language>
-    <copyright>Copyright © 2016-2024 Razon Yang. All Rights Reserved.
+    <copyright>Copyright © 2024-2024 Q. All Rights Reserved.
 </copyright>
-    <lastBuildDate>Sun, 28 Nov 2021 16:00:53 +0800</lastBuildDate><atom:link href="https://Q040512.github.io/zh-hans/tags/css/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>自定义资源</title>
-      <link>https://Q040512.github.io/zh-hans/docs/advanced/custom-assets/</link>
-      <pubDate>Sun, 28 Nov 2021 16:00:53 +0800</pubDate>
-      <guid>https://Q040512.github.io/zh-hans/docs/advanced/custom-assets/</guid>
-      <description><![CDATA[<p>作为一个可定制的主题，其提供了定制资源的能力，无论是定制 CSS 和 JS，还是引入第三方 CSS 和 JS。</p>]]></description>
-    </item>
-    
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Q040512.github.io/zh-hans/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown 语法指南</title>
       <link>https://Q040512.github.io/zh-hans/posts/markdown-syntax/</link>

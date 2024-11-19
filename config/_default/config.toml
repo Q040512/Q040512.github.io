@@ -1,14 +1,14 @@
 baseURL = "https://Q040512.github.io"
-title = "HBS (Hugo Theme Bootstrap) v1"
+title = "Q"
 theme = "hugo-theme-bootstrap" # install via git submodule
 # theme = "github.com/razonyang/hugo-theme-bootstrap" # install via hugo module
-copyright = "Copyright © 2016-{year} Razon Yang. All Rights Reserved."
+copyright = "Copyright © 2024-{year} Q. All Rights Reserved."
 
 publishDir = "docs"
 cleanDestinationDir = true
 
 # Multilingual mode
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-hans"
 defaultContentLanguageInSubdir = true # If you use only one language comment this option
 # disableLanguages = ["fr", "zh-cn" ,"zh-tw", "ar", "ja"] # Uncomment in order to disable one or more language
 
@@ -47,7 +47,6 @@ timeout = "120s"
   category = "categories"
   series = "series"
   tag = "tags"
-  author = "authors"
 
 [build]
   writeStats = true
