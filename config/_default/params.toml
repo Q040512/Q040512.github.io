@@ -1,6 +1,6 @@
 # sass_transpiler = "dartsass"
 
-mainSections = ["posts", "docs"] # Default to ["posts"].
+mainSections = ["posts", "blog"] # Default to ["posts"].
 
 # titleSeparator = "|" # Title separator. Default to "-".
 
@@ -343,7 +343,7 @@ name = "阿Q的博客"
 bio = "欢迎来到我的博客，我是阿Q～"
 # company = 'Company'
 # company = '<a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>'
-location = "Beijing, China"
+location = "北京"
 # alternatives:
 # location = "<a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>"
 # location = "<a href='https://www.google.com/maps/search/Earth'>Earth</a>"

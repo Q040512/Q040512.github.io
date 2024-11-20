@@ -4,15 +4,55 @@
   <url>
     <loc>https://Q040512.github.io/zh-hans/tags/css/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/tags/css/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/tags/html/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/tags/html/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/tags/markdown/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/tags/markdown/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/posts/markdown-syntax/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/posts/markdown-syntax/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
@@ -45,6 +85,16 @@
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/posts/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/posts/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/series/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
@@ -61,6 +111,16 @@
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/about/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/archives/2019/</loc>
   </url><url>
@@ -73,6 +133,16 @@
     <loc>https://Q040512.github.io/zh-hans/archives/2023/</loc>
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/blog/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/categories/</loc>
     <xhtml:link
@@ -87,15 +157,75 @@
                 />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/blog/work/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/blog/work/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/blog/work/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/archives/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/contact/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/blog/life/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/blog/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/blog/life/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/search/"
+                />
   </url><url>
     <loc>https://Q040512.github.io/zh-hans/blog/study/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/blog/study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/blog/study/"
+                />
   </url>
 </urlset>

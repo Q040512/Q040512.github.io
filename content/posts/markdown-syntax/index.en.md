@@ -21,11 +21,6 @@ images = [
 ]
 authors = ["Hugo"]
 # toc = false
-[menu.footer]
-  parent = "docs"
-  weight = 4
-  [menu.footer.params]
-    icon = '<i class="fab fa-markdown fa-fw text-success"></i>'
 +++
 
 

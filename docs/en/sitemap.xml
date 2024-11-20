@@ -2,19 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Q040512.github.io/en/categories/</loc>
+    <loc>https://Q040512.github.io/en/tags/css/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://Q040512.github.io/zh-hans/categories/"
+                href="https://Q040512.github.io/zh-hans/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Q040512.github.io/en/categories/"
+                href="https://Q040512.github.io/en/tags/css/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/series/docs/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Q040512.github.io/en/tags/html/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/tags/html/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/tags/markdown/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/tags/markdown/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/posts/markdown-syntax/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/posts/markdown-syntax/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/posts/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/posts/"
                 />
   </url><url>
     <loc>https://Q040512.github.io/en/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
@@ -27,6 +84,7 @@
                 />
   </url><url>
     <loc>https://Q040512.github.io/en/series/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
@@ -39,6 +97,7 @@
                 />
   </url><url>
     <loc>https://Q040512.github.io/en/tags/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
@@ -48,6 +107,115 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://Q040512.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/about/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/archives/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/blog/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/contact/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/blog/life/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/blog/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/blog/life/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/search/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/blog/study/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/blog/study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/blog/study/"
+                />
+  </url><url>
+    <loc>https://Q040512.github.io/en/blog/work/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://Q040512.github.io/zh-hans/blog/work/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Q040512.github.io/en/blog/work/"
                 />
   </url>
 </urlset>
